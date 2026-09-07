@@ -1,0 +1,2 @@
+[functions.seed-demo-data]
+verify_jwt = false
